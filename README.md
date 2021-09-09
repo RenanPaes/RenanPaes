@@ -24,12 +24,12 @@
   <a href="mailto:contato_renan@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" />
   </a>  
+  
+  ![Snake animation](https://github.com/renanpaes/renanpaes/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 <!--
 **RenanPaes/RenanPaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Snake animation](https://github.com/renanpaes/renanpaes/blob/output/github-contribution-grid-snake.svg)
 
 Here are some ideas to get you started:
 
