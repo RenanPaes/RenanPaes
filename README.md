@@ -23,7 +23,7 @@
   </a>
   <a href="mailto:contato_renan@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" />
-  </a>
+  </a>  
 </div>
   
 <!--
